@@ -6,4 +6,4 @@ It works for any map but the sign toggle is placed relative to Mescht's map's sp
 You can move the sign by changing the values in "Setup Practice\data\setup_practice\functions\tick"
 
 ### Installation
-[Download](https://github.com/m-ont/Zero-Setup-Practice/archive/refs/tags/v1.0.zip) the zip file and extract the content it into in your world's "datapacks" folder (use "**Extract Here**").
+[Download](https://github.com/m-ont/Zero-Setup-Practice/releases/download/v1.0/Setup_Practice.zip) the zip file and extract the content it into in your world's "datapacks" folder (use "**Extract Here**").
